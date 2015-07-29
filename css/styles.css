@@ -67,7 +67,9 @@ a:hover {text-decoration:underline;}
 	z-index:1000;
 	color: #fff;
 }
-
+.twitter{
+    top: -3px;
+}
 .main-nav{
 	position:absolute;
 	bottom: 23px;
